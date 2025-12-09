@@ -1,0 +1,10 @@
+{"text": "Adobe Systems (ADBE) reported a surge in demand as CPI figures improved.", "entities": [[0, 14, "COMPANY"], [16, 20, "TICKER"], [53, 56, "INDICATOR"]]}
+{"text": "Toyota Motor Corp invested $800 million in EV production lines.", "entities": [[0, 16, "COMPANY"], [27, 40, "CURRENCY"], [17, 25, "EVENT"]]}
+{"text": "Netflix (NFLX) entered a licensing agreement with Sony Pictures.", "entities": [[0, 7, "COMPANY"], [9, 13, "TICKER"], [15, 36, "EVENT"], [42, 55, "COMPANY"]]}
+{"text": "The U.S. unemployment rate dropped to 3.4%, the lowest in decades.", "entities": [[8, 27, "INDICATOR"]]}
+{"text": "Apple acquired a London-based AI startup for $92 million.", "entities": [[0, 5, "COMPANY"], [6, 14, "EVENT"], [49, 60, "CURRENCY"]]}
+{"text": "Singapore's GDP expanded by 5.1% in the latest quarter.", "entities": [[13, 16, "INDICATOR"]]}
+{"text": "Morgan Stanley warned investors after a decline in Asian markets.", "entities": [[0, 13, "COMPANY"]]}
+{"text": "Rivian Automotive (RIVN) closed a $1.5 billion funding round.", "entities": [[0, 17, "COMPANY"], [19, 23, "TICKER"], [32, 45, "CURRENCY"], [46, 59, "EVENT"]]}
+{"text": "JP Morgan Chase faced losses despite strengthening dollar trends.", "entities": [[0, 16, "COMPANY"], [47, 53, "CURRENCY"]]}
+{"text": "Spotify signed a multi-year deal with FC Barcelona.", "entities": [[0, 7, "COMPANY"], [8, 19, "EVENT"], [31, 43, "COMPANY"]]}

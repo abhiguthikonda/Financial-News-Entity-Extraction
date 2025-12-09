@@ -1,0 +1,20 @@
+{"text": "Apple Inc. (AAPL) reported a 12% rise in quarterly revenue as global inflation slowed.", "entities": [[0, 10, "COMPANY"], [12, 16, "TICKER"], [48, 55, "INDICATOR"]]}
+{"text": "Tesla acquired Maxwell Technologies in a $218 million deal to boost battery production.", "entities": [[0, 5, "COMPANY"], [15, 34, "COMPANY"], [42, 55, "CURRENCY"], [64, 68, "EVENT"]]}
+{"text": "Microsoft Corp. announced a partnership with OpenAI after investing $1 billion.", "entities": [[0, 15, "COMPANY"], [45, 51, "COMPANY"], [67, 77, "CURRENCY"], [0, 0, "EVENT"]]}
+{"text": "The GDP growth rate of India hit 7.8% amid rising global demand.", "entities": [[4, 14, "INDICATOR"]]}
+{"text": "Amazon (AMZN) completed the acquisition of Whole Foods for $13.7 billion.", "entities": [[0, 6, "COMPANY"], [8, 12, "TICKER"], [38, 49, "COMPANY"], [55, 70, "CURRENCY"], [28, 39, "EVENT"]]}
+{"text": "SoftBank invested ¥120 billion into robotics startups across Asia.", "entities": [[0, 8, "COMPANY"], [17, 29, "CURRENCY"], [38, 56, "EVENT"]]}
+{"text": "Alphabet Inc. saw its shares rise after reporting stronger CPI forecasts.", "entities": [[0, 12, "COMPANY"], [63, 66, "INDICATOR"]]}
+{"text": "Walmart plans to expand operations in Mexico as the peso strengthens.", "entities": [[0, 7, "COMPANY"], [48, 52, "CURRENCY"]]}
+{"text": "Goldman Sachs (GS) led a $400 million funding round for fintech firm Plaid.", "entities": [[0, 14, "COMPANY"], [16, 18, "TICKER"], [23, 38, "CURRENCY"], [39, 52, "EVENT"], [67, 72, "COMPANY"]]}
+{"text": "Meta Platforms announced layoffs affecting 10,000 employees amid revenue pressure.", "entities": [[0, 14, "COMPANY"], [24, 31, "EVENT"]]}
+{"text": "Uber Technologies partnered with Toyota to develop autonomous ride systems.", "entities": [[0, 17, "COMPANY"], [32, 38, "COMPANY"], [19, 28, "EVENT"]]}
+{"text": "The Eurozone inflation rate increased to 6.5% in April.", "entities": [[11, 25, "INDICATOR"]]}
+{"text": "PayPal Holdings (PYPL) launched new crypto payment services.", "entities": [[0, 15, "COMPANY"], [17, 21, "TICKER"], [22, 29, "EVENT"]]}
+{"text": "IBM signed a deal worth $450 million to modernize cloud infrastructure.", "entities": [[0, 3, "COMPANY"], [25, 38, "CURRENCY"], [4, 15, "EVENT"]]}
+{"text": "HSBC Holdings posted strong profits despite currency headwinds.", "entities": [[0, 13, "COMPANY"]]}
+{"text": "NVIDIA (NVDA) revealed new chips as global semiconductor demand rises.", "entities": [[0, 6, "COMPANY"], [8, 12, "TICKER"]]}
+{"text": "Samsung secured a $2 billion contract to supply memory chips.", "entities": [[0, 7, "COMPANY"], [16, 27, "CURRENCY"], [8, 16, "EVENT"]]}
+{"text": "Intel Corp plans to invest $25 billion in an Israeli chip plant.", "entities": [[0, 10, "COMPANY"], [29, 38, "CURRENCY"], [16, 22, "EVENT"]]}
+{"text": "BP plc announced a merger with Shell to streamline energy operations.", "entities": [[0, 5, "COMPANY"], [28, 33, "EVENT"], [39, 44, "COMPANY"]]}
+{"text": "Visa Inc. reported weaker earnings due to slowing consumer spending.", "entities": [[0, 8, "COMPANY"], [23, 31, "EVENT"]]}
